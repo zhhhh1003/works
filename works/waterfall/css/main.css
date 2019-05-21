@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.box {
+    padding: 10px 0 0 10px;
+    float: left;
+}
+
+.pic {
+    border: 1px solid #999;
+    padding: 10px;
+}
+
+.box .pic img {
+    display: block;
+    width: 250px;
+}
